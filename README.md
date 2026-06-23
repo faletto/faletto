@@ -1,6 +1,5 @@
-github stats website died :P
 <a href="https://github.com/faletto">
-<img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=faletto&count_private=true&show_icons=true&theme=shades-of-purple&rank_icon=percentile"/>
+<img alt="github stats website died :P" height=200 align=center src="https://github-readme-stats.vercel.app/api?username=faletto&count_private=true&show_icons=true&theme=shades-of-purple&rank_icon=percentile"/>
 </a>
 <a href="https://github.com/faletto">
 <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=faletto&layout=donut&theme=shades-of-purple&hide_repository=ThunderView"/>
